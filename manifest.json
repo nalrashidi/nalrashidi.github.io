@@ -46,5 +46,7 @@
   "start_url": "/Home",
   "display": "standalone",
   "theme_color": "#112233",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "lang": "ar-SA",
+  "dir": "rtl"
 }
